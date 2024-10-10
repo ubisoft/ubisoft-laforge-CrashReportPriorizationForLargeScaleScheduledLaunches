@@ -8,11 +8,10 @@ We use data from a previously released title to detect such viral crashes in a n
 This repository includes our Online Appendix and our replication package. 
 Replication package includes the following:
 
-
-- 0. time-series-clustering.ipynb
-- 1. get-codellama-embeddings.py
-- 2. compute-similarity.py
-- 3. train-ML-model.py
-- 4. evaluate.ipynb
+- Step 1: time-series-clustering.ipynb
+- Step 2: get-codellama-embeddings.py
+- Step 3: compute-similarity.py
+- Step 4: train-ML-model.py
+- Step 5: evaluate.ipynb
      
 © [2024] Ubisoft Entertainment. All Rights Reserved
